@@ -21,4 +21,4 @@ After the *script* editing:
 - Leave the 2nd player in the shrine and go fight the ***Crypt Keeper***;
 - After defeating the mob and collect the loot press the char **"I"** on your keyboard to start the macro with your custom settings.
 
-## Enjoy the Farm :joy:
+## Enjoy the Farm :smile: 😄
