@@ -9,16 +9,16 @@ Macro criada para ajudar no farm de *Shimering Pearl*, *King's Order* e *Lord's 
 - threading
 
 ### Recomendações
-- Use um 2^o jogador para ficar parado no santuário de *Mal's Floating Castle* (use-o para teletransportar em gastar itens).
+- Use um 2<sup>o</sup> jogador para ficar parado no santuário de *Mal's Floating Castle* (use-o para teletransportar em gastar itens).
 
 ### Como usar
-- Na seção `Teleport to sanctuary` do *script*, use as configurações padrão se está usando um 2^o jogador para se teletransportar. Se não está, **comente** essa seção e use as funcões `q()`, `e()` e `item()` para selecionar e usar um ***Bell of Return*** para se teletransportar de volta ao santuário;
+- Na seção `Teleport to sanctuary` do *script*, use as configurações padrão se está usando um 2<sup>o</sup> jogador para se teletransportar. Se não está, **comente** essa seção e use as funcões `q()`, `e()` e `item()` para selecionar e usar um ***Bell of Return*** para se teletransportar de volta ao santuário;
 - Na seção `EDIT HERE` no *script*, você pode criar várias sequências para diferentes personagens para se preparar para a luta com o ***Crypt Keeper***;
 - Todo o moviento desta macro para chegar perto do local do farm considera o personagem com ***peso*** entre 60% e 75%.
 
 Depois de editar o *script*:
 - Abra a macro e vá para o santuário de *Mal's Floating Castle*;
-- Deixe o 2^o jogador no santuário e vá lutar com o ***Crypt Keeper***;
+- Deixe o 2<sup>o</sup> jogador no santuário e vá lutar com o ***Crypt Keeper***;
 - Depois de derrota-lo e ter coletado seu loot pressione a tecla **"I"** no seu teclado para começar a macro com suas configurações personalizadas.
 
 ## :smile: Aproveite o Farm 😄  
